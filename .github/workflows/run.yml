@@ -1,8 +1,8 @@
 name: Cloud check in action
 on:
-  push:
-    branches:
-      - main
+#  push:
+#    branches:
+#      - main
   watch:
     types: started
   workflow_dispatch:
